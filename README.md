@@ -36,7 +36,7 @@ Reader engagement is concentrated around a small number of highly popular titles
 Publishing and authorship follow a skewed distribution, with a few key contributors dominating output.
 
 Conclusion
-This dashboard effectively summarizes key trends in the Goodreads dataset by combining publication history, popularity metrics, and contributor analysis. It provides valuable insights for data analytics, publishing strategy, and reader behavior analysis, making it suitable for business intelligence and exploratory data analysis projects.
+This dashboard effectively summarizes key trends in the Goodreads dataset by combining publication history, popularity metrics, and contributor analysis. It provides valuable insights for data analytics, publishing strategy, and reader behavior analysis, making it suitable for business intelligence and exploratory data analysis projects
 
 
 
